@@ -1,0 +1,117 @@
+[
+    {
+        "name": "PROK FT JC REYES - BRIGANTES", 
+        "src": "brigantes", 
+        "poster": "https://i.ytimg.com/vi/BqPM-7Muy7M/sddefault.jpg", 
+        "artists": [
+            {
+                "name": "Jc Reyes",
+                "picture": "https://images.genius.com/4e9102482f1ec55b252d7d811fdab9cc.800x1000x1.jpg"
+            }, 
+            {
+                "name": "Prok",
+                "picture": "https://www.tastethefloor.es/wp-content/uploads/2019/01/Captura-de-pantalla-2021-11-09-a-las-12.42.35.png"
+            }
+        ] 
+    }, 
+    {
+        "name": "Bryant Myers ft. Anonimus, Anuel AA y Almighty - Esclava Remix (Video Oficial)", 
+        "src": "esclava", 
+        "poster": "https://i.ytimg.com/vi/GZ0ki-HNkZE/maxresdefault.jpg", 
+        "artists": [
+            {
+                "name": "Bryant Myers",
+                "picture": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/12/15/lrt36rok8dt4gdzpyn8b/bryant-myers-consejos"
+            }, 
+            {
+                "name": "Anuel AA",
+                "picture": "https://www.lecturas.com/medio/2023/10/10/anuel-aa_f8553f5a_231010211215_1280x720.jpg"
+            },
+            {
+                "name": "Almighty",
+                "picture": "https://yt3.googleusercontent.com/XEK6P1XFfE0SA8UUWiOG5Dra-8XRjekUYXt75Xqek9WgFj5nIjCLJRb9rB0Dspp5jKVe75UAFg=s900-c-k-c0x00ffffff-no-rj"
+            }
+        ] 
+    }, 
+    {
+        "name": "El Mambo - Kiko Rivera", 
+        "src": "mambo", 
+        "poster": "https://yt3.googleusercontent.com/ytc/APkrFKa6t0WN5lYzRqIDe-LAuxwD9cRFQNMugAiiH8Pc=s900-c-k-c0x00ffffff-no-rj", 
+        "artists": [
+            {
+                "name": "Kiko Rivera",
+                "picture": "https://yt3.googleusercontent.com/ytc/APkrFKa6t0WN5lYzRqIDe-LAuxwD9cRFQNMugAiiH8Pc=s900-c-k-c0x00ffffff-no-rj"
+            }
+        ] 
+    },
+    {
+        "name": "Apatrullando la Ciudad - El Fary", 
+        "src": "apatrullando", 
+        "poster": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/08/03/16280001219476.jpg", 
+        "artists": [
+            {
+                "name": "El Fary",
+                "picture": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/MULOVQDMDFIB3KWHGVFHA7LCRY.jpg"
+            }, 
+            {
+                "name": "Jose Luis Torrente",
+                "picture": "https://as01.epimg.net/deporteyvida/imagenes/2017/10/17/portada/1508244075_414775_1508244230_noticia_normal_recorte1.jpg"
+            }
+        ] 
+    },
+    {
+        "name": "Energy",
+        "freq": "101.2",
+        "src": "http://ic6.101.ru:8000/stream/air/aac/64/99"
+    },
+    {
+        "name": "Europa PLus",
+        "freq": "101.2",
+        "src": "http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3?d2943865"
+    },
+    {
+        "name": "Love Radio",
+        "freq": "101.2",
+        "src": "http://stream2.n340.com/12_love_64_reg_45?type=.aac&UID=13A88DCE491B3A91D3601BDF6E14DC0C"
+    },
+    {
+        "name": "Dorozhnoe",
+        "freq": "101.2",
+        "src": "http://dorognoe.hostingradio.ru:8000/dorognoe?bd6d0807"
+    },
+    {
+        "name": "Retro FM",
+        "freq": "101.2",
+        "src": "http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3?5e73"
+    },
+    {
+        "name": "Mayak",
+        "freq": "101.2",
+        "src": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps"
+    },
+    {
+        "name": "Comedy Radio",
+        "freq": "101.2",
+        "src": "http://pub0101.101.ru:8000/stream/air/aac/64/202"
+    },
+    {
+        "name": "Eldoradio",
+        "freq": "101.2",
+        "src": "http://emgspb.hostingradio.ru/eldoradio128.mp3?836b2c6a"
+    },
+    {
+        "name": "Monte Carlo",
+        "freq": "101.2",
+        "src": "https://montecarlo.hostingradio.ru/montecarlo96.aacp"
+    },
+    {
+        "name": "Maximum",
+        "freq": "101.2",
+        "src": "https://maximum.hostingradio.ru/maximum96.aacp"
+    },
+    {
+        "name": "Radio Metro",
+        "freq": "101.2",
+        "src": "http://stream.radiometro.ru:8230/;stream.mp3"
+    }
+]
